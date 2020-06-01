@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'VuePressクイックスターター for Blog',
-  description: 'Vuepressでブログを始めるためのクイックスターターです。最短最速でサイト構築を完了させることで、記事を書くことに専念できます。',
+  title: 'VueとNuxtをはじめから',
+  description: 'Vue.jsとNuxt.jsを分かりやすく解説するブログです。VueやNuxtをこれから学びたい方も、既に使っているけどヒントが欲しい方も是非ご利用ください。',
   theme: require.resolve('../../'),
   themeConfig: {
     /**
