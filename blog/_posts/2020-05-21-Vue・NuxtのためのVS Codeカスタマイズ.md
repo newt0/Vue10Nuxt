@@ -4,20 +4,19 @@ date: 2020-5-21
 tags: 
   - Vue.js入門
   - VS Code
-# author: Newt0
-# location: 東京
-summary: VS Codeの真価を引き出すことで、Vue.js・Nuxt.js開発を強力にサポート。
+
+summary: VS Codeの真価を引き出すことで、Vue.js・Nuxt.js開発を強力にサポートしましょう。
 ---
 <a href="//af.moshimo.com/af/c/click?a_id=2000411&p_id=2520&pc_id=5570&pl_id=32576&guid=ON" target= "_blank" rel="nofollow"><img src="//image.moshimo.com/af-img/1916/000000032576.png" width="728" height="auto" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2000411&p_id=2520&pc_id=5570&pl_id=32576" width="1" height="1" style="border:none;">
 
 ## はじめに
-**Vue.jsやNuxt.jsを用いて開発している方にとって、VS Codeはは最も適切なテキストエディタです。**
-そのままでも使いやすいですが、いくつか設定を変更したり、拡張機能を追加することでさらに使いやすくなります。
+テキストエディタの選択肢は増えていますが、**Vue.jsやNuxt.jsを用いて開発している方に自信を持っておすすめできるのがVS Code(Visual Studio Code)です。**
+そのままでも使いやすいVS Codeですが、いくつか設定を変更したり、拡張機能を追加することでさらに使いやすくなります。
 本記事では、Vue.jsやNuxt.jsの開発効率を上げるためのVS Codeのおすすめカスタマイズを紹介します。
 
 ### この記事を読むと
-- Vue.jsやNuxt.jsの開発効率が圧倒的によくなる
-- ケアレスミスがなくなることで、データフローやコンポーネントの設計といったより上流の工程に集中できるようになる
+- Vue.jsやNuxt.jsの開発効率の圧倒的な向上
+- 開発者体験の向上によって、データフローやコンポーネントの設計といったより上流の工程に集中できるようになる
 
 ### 想定読者
 
@@ -28,8 +27,8 @@ summary: VS Codeの真価を引き出すことで、Vue.js・Nuxt.js開発を強
 
 - JavaScript(ES6)の基本知識(JavaScript について自信がない方は<a href="//af.moshimo.com/af/c/click?a_id=1875799&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4873117836" rel="nofollow">初めてのJavaScript 第3版 ―ES2015以降の最新ウェブ開発</a><img src="//i.moshimo.com/af/i/impression?a_id=1875799&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />が確かな理解を深められる良書です)
 
-- Vue についての基本知識
-(Vue の基本知識がない方は<a href="//af.moshimo.com/af/c/click?a_id=1875799&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07X6F1C2P" rel="nofollow">Vue.js&amp;Nuxt.js超入門</a><img src="//i.moshimo.com/af/i/impression?a_id=1875799&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />が入門書として最も最適です)
+- Vue.jsについての基本知識
+(Vue.jsの基本知識がない方は<a href="//af.moshimo.com/af/c/click?a_id=1875799&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07X6F1C2P" rel="nofollow">Vue.js&amp;Nuxt.js超入門</a><img src="//i.moshimo.com/af/i/impression?a_id=1875799&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />が入門書として最も最適です)
 
 ## VS Code基本設定
 デフォルト設定のままの方が多いですが、カスタマイズすることを強くお勧めします。
@@ -54,8 +53,8 @@ summary: VS Codeの真価を引き出すことで、Vue.js・Nuxt.js開発を強
 一行が長いコードは折り返して表示されて、見やすくなります。
 
 ## VS Code拡張機能
-拡張機能も経験豊富なエンジニアでさえあえて触らない方も少なくないようです。
-しかし、自身に適した拡張機能でカスタマイズしたVS Codeはまさに羽の生えた馬、鬼に金棒です。先にご紹介したVS Code基本設定と比べ物にならないほど、強力な武器となります。是非、試してみてください。
+経験豊富なエンジニアでさえ、VS Codeの拡張機能を触らない方は少なくないようです。
+しかし、自身に適した拡張機能でカスタマイズしたVS Codeは圧倒的に強力な武器となります。先にご紹介したVS Code基本設定と比べ物にならないほど、効果を実感することができます。是非お試しください。
 
 ### VS Code拡張機能の変更方法
 VS Code画面左下の歯車をクリックして、「extension」（日本語設定なら「拡張機能」）を選択しましょう。
@@ -145,8 +144,6 @@ Vuetify用のSnippets拡張機能です。
 
 npp用の補助ツールです。npmはVue.jsやNuxt.jsの根幹となる部分の一つですね。
 
-## おわりに
-さて、本記事でご紹介したものだけでも大きな差を生みますが、さらなる改善の余地は多分にあります。本記事を参考に、是非自分だけの理想のVS Codeを整えてください。
 
 <a href="//af.moshimo.com/af/c/click?a_id=2000387&p_id=1555&pc_id=2816&pl_id=22724&guid=ON" target="_blank" rel="nofollow"><img src="//image.moshimo.com/af-img/0866/000000022724.jpg" width="728" height="auto" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2000387&p_id=1555&pc_id=2816&pl_id=22724" width="1" height="1" style="border:none;">
 <a href="//af.moshimo.com/af/c/click?a_id=2000357&p_id=1767&pc_id=3380&pl_id=25195&guid=ON" target= "_blank" rel="nofollow"><img src="//image.moshimo.com/af-img/0402/000000025195.png" width="728" height="auto"  style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2000357&p_id=1767&pc_id=3380&pl_id=25195" width="1" height="1" style="border:none;">
