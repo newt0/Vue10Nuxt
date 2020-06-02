@@ -5,7 +5,7 @@ tags:
   - Vue.js入門
   - VS Code
 
-summary: VS Codeの真価を引き出すことで、Vue.js・Nuxt.js開発を強力にサポートしましょう。
+summary: VS Codeの真価を引き出すことで、Vue.js・Nuxt.js開発を強力にサポート
 ---
 <a href="//af.moshimo.com/af/c/click?a_id=2000411&p_id=2520&pc_id=5570&pl_id=32576&guid=ON" target= "_blank" rel="nofollow"><img src="//image.moshimo.com/af-img/1916/000000032576.png" width="728" height="auto" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2000411&p_id=2520&pc_id=5570&pl_id=32576" width="1" height="1" style="border:none;">
 
