@@ -175,9 +175,9 @@ module.exports = {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#feed
      */
-    feed: {
-      canonical_base: 'https://example.vuepress-theme-blog.ulivz.com/',
-    },
+    // feed: {
+    //   canonical_base: 'https://example.vuepress-theme-blog.ulivz.com/',
+    // },
 
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#summary
