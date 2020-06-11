@@ -22,10 +22,10 @@ module.exports = {
         text: 'Tags',
         link: '/tag/',
       },
-      {
-        text: '本サイト',
-        link: 'https://vue10nuxt.netlify.app/',
-      },
+      // {
+      //   text: '本サイト',
+      //   link: 'https://vue10nuxt.netlify.app/',
+      // },
       // {
       //   text: 'Location',
       //   link: '/location/',
