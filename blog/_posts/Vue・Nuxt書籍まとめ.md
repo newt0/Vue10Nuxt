@@ -1,5 +1,5 @@
 ---
-title: Vue.jsおすすめ書籍まとめ
+title: 【入門編】Vue.js/Nuxt.jsおすすめ書籍まとめ
 date: 2020-5-22
 tags:
   - Vue.js入門
@@ -11,14 +11,6 @@ summary: Vue.jsおすすめ書籍をまとめました。
 <a href="//af.moshimo.com/af/c/click?a_id=2034716&p_id=170&pc_id=185&pl_id=4153&guid=ON" rel="nofollow"><img src="//image.moshimo.com/af-img/0068/000000004153.gif" width="728" height="90" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&p_id=170&pc_id=185&pl_id=4153" width="1" height="1" style="border:none;">
 
 <a href="//af.moshimo.com/af/c/click?a_id=2180379&p_id=56&pc_id=56&pl_id=639&guid=ON" rel="nofollow"><img src="//image.moshimo.com/af-img/0032/000000000639.gif"  width="728" height="90" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2180379&p_id=56&pc_id=56&pl_id=639" width="1" height="1" style="border:none;">
-
-## はじめに
-
-## Vue.js 書籍おすすめランキング
-
-### 『Vue.js 入門 基礎から実践アプリケーション開発まで』
-
-<a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07X6F1C2P" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51eFKoSgx5L._SL160_.jpg" alt="" style="border: none;" /><br />Vue.js&amp;Nuxt.js 超入門</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
 
 ### 『Vue.js&Nuxt.js 超入門』
 
@@ -32,11 +24,15 @@ summary: Vue.jsおすすめ書籍をまとめました。
 
 <a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07GJM9ZRR" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/41JJ2OXWyjL._SL160_.jpg" alt="" style="border: none;" /><br />Hello!! Nuxt.js Hello!!Vue&amp;Nuxt シリーズ (技術の泉シリーズ（NextPublishing）)</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
 
-## JavaScript
+### 『Vue.js 入門 基礎から実践アプリケーション開発まで』
 
-### 初めての JavaScript 第 3 版 ―ES2015 以降の最新ウェブ開発』
+<a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07X6F1C2P" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51eFKoSgx5L._SL160_.jpg" alt="" style="border: none;" /><br />Vue.js&amp;Nuxt.js 超入門</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
 
-<a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4873117836" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51U44SJi3jL._SL160_.jpg" alt="" style="border: none;" /><br />初めての JavaScript 第 3 版 ―ES2015 以降の最新ウェブ開発</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
+
+
+
+
+
 
 ## Nuxt.js
 
@@ -52,20 +48,14 @@ summary: Vue.jsおすすめ書籍をまとめました。
 
 <a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F1789952697" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51Mr+XmqpzL._SL160_.jpg" alt="" style="border: none;" /><br />Hands-on Nuxt.js Web Development: Build universal and static-generated Vue.js applications using Nuxt.js</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
 
-### 『Web 制作者のための CSS 設計の教科書 モダン Web 開発に欠かせない「修正しやすい CSS」の設計手法』
 
-<a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00M0ESXUI" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51nSEOKWSrL._SL160_.jpg" alt="" style="border: none;" /><br />Web 制作者のための CSS 設計の教科書 モダン Web 開発に欠かせない「修正しやすい CSS」の設計手法 Web 制作者のための教科書シリーズ</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
-
-### 『実践 Firestore (技術の泉シリーズ（NextPublishing）』
-
-<a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0851BGDQG" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51EfFnCzkqL._SL160_.jpg" alt="" style="border: none;" /><br />実践 Firestore (技術の泉シリーズ（NextPublishing）)</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
 
 ### 『速習 Vue.js 速習シリーズ』
 
 <a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07BS62Z94" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51nOC6q7JkL._SL160_.jpg" alt="" style="border: none;" /><br />速習 Vue.js 速習シリーズ</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
 
 
-### 『Vue.js で CRUD 操作を行ってみよう』
+
 
 ### 『Laravel と Nuxt ではじめる SNS シェアアプリ開発 (技術の泉シリーズ（NextPublishing)』
 
@@ -102,6 +92,8 @@ summary: Vue.jsおすすめ書籍をまとめました。
 ### 『これからはじめる Vue.js 実践入門』
 
 <a href="//af.moshimo.com/af/c/click?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07WVXRNH3" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51bIiHhapVL._SL160_.jpg" alt="" style="border: none;" /><br />これからはじめる Vue.js 実践入門</a><img src="//i.moshimo.com/af/i/impression?a_id=2034716&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
+
+##　上級者向け
 
 ### 『プログラミング TypeScript ―スケールする JavaScript アプリケーション開発』
 
